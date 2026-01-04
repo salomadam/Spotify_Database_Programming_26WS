@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+git clone https://github.com/salomadam/Spotify_Database_Programming_26WS.git
